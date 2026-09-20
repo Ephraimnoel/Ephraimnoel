@@ -40,10 +40,11 @@ My current objectives are:
 * **Client & Application Support:** Microsoft Outlook client configuration, email connectivity troubleshooting, network adapter and printer setup.
 * **Documentation & Administration:** Technical runbook drafting, standard operating procedures (SOPs), proposal and budget documentation.
 
-### Security Foundations
-* **Network Defense:** Port security, unused interface shutdown, management plane protections, basic access control list (ACL) concepts.
-* **Security Operations Fundamentals:** System log review concepts, baseline hardening, introductory threat modeling, structured incident documentation.
-* **Governance & Process:** Exposure to institutional security hygiene, data confidentiality awareness, and operational guidelines.
+### Security Foundations & SOC Operations
+* **Incident Response & Triage:** NIST SP 800-61 Rev. 2 lifecycle, phishing email header analysis (SPF, DKIM, DMARC), endpoint malware containment workflows.
+* **Log Analysis & Detection:** Linux authentication log examination (`/var/log/auth.log`), SSH brute-force detection via CLI text pipelines (`grep`, `awk`), web application attack pattern identification (SQLi, Directory Traversal).
+* **Threat Modeling & Hardening:** Microsoft STRIDE architectural modeling, switchport security, unused interface shutdown, management plane protections, access control lists (ACLs).
+* **Governance & Standards:** Exposure to institutional security hygiene, data confidentiality awareness, and operational guidelines.
 
 ---
 
@@ -61,6 +62,12 @@ My current objectives are:
 * **Description:** Field-tested procedures and standard operating procedures drawn from hands-on IT support attachment experience and daily Linux administration. Covers RAM testing and single-stick isolation, POST failure triage, Windows clean installations, Outlook MAPI repair, and Linux CLI network/service diagnostics (`systemd`, `iproute2`, `ss`).
 * **Repository:** [Ephraimnoel/it-support-runbooks](https://github.com/Ephraimnoel/it-support-runbooks)
 
+### 3. [SOC Analyst Playbooks & Log Analysis](https://github.com/Ephraimnoel/soc-analyst-playbooks)
+* **Status:** `Active Documentation` | **Type:** Incident Response Playbooks & Analytical Log Walkthroughs
+* **Focus:** Tier 1 Alert Triage, NIST SP 800-61 Response Lifecycle, Log Investigation (SSH & Web), and STRIDE Threat Modeling.
+* **Description:** Practical SOC Tier 1 triage workflows covering phishing email header analysis, endpoint malware isolation, brute-force identification, and hands-on Linux CLI log extraction (`grep`, `awk`, `uniq`). Includes a formal STRIDE threat model evaluating the Northstar Services network design.
+* **Repository:** [Ephraimnoel/soc-analyst-playbooks](https://github.com/Ephraimnoel/soc-analyst-playbooks)
+
 ---
 
 ## Portfolio Roadmap
@@ -71,7 +78,7 @@ This portfolio prioritizes authentic engineering documentation, reproducible lab
 |---|---|---|---|
 | **[CCNA Networking Lab](https://github.com/Ephraimnoel/networking-lab-ccna)** | Switching, VLANs, Router-on-a-Stick, DHCP, Fault Isolation | **In Progress** | Packet Tracer (`.pkt`), Cisco IOS Configs, Logs |
 | **[IT Support & Systems Runbooks](https://github.com/Ephraimnoel/it-support-runbooks)** | RAM diagnostics, POST triage, Outlook setup, Linux CLI, SOPs | **Active Documentation** | Standard Operating Procedures (SOPs), Templates |
-| **SOC & Incident Analysis Notes** | Linux auth/syslog examination, threat modeling, incident playbooks | **Planned** | Technical Analysis & Case Walkthroughs |
+| **[SOC Analyst Playbooks](https://github.com/Ephraimnoel/soc-analyst-playbooks)** | Phishing triage, malware isolation, SSH/Web log analysis, STRIDE | **Active Documentation** | Incident Playbooks, Case Studies, STRIDE Model |
 | **Small Organization Security Baseline** | Hardening checklists, access controls, basic security policies | **Planned** | Policy Framework & Governance Docs |
 
 > *Note on Academic Repositories:* Earlier coursework repositories (including Python Flask library assignments and introductory web exercises) are preserved as archived academic milestones and do not represent my primary focus in infrastructure and security.
