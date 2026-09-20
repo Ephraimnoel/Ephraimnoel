@@ -1,10 +1,10 @@
 # Ephraim Noel
 
-**BSc Information Technology Student | CCNA Certified**  
+**BSc Information Technology Graduate | Second Class Upper Division | CCNA Certified**  
 *Maseno University · Kenya*
 
 [![CCNA Certified](https://img.shields.io/badge/Cisco-CCNA%20Certified-049fd9?style=flat&logo=cisco&logoColor=white)](https://www.cisco.com/)
-[![Education](https://img.shields.io/badge/Education-BSc%20Information%20Technology-24292e?style=flat)](https://www.maseno.ac.ke/)
+[![Education](https://img.shields.io/badge/BSc%20IT-Second%20Class%20Upper-24292e?style=flat)](https://www.maseno.ac.ke/)
 [![Environment](https://img.shields.io/badge/Environment-Linux-E95420?style=flat&logo=linux&logoColor=white)](https://endeavouros.com/)
 [![Focus](https://img.shields.io/badge/Focus-Network%20Security%20%7C%20Systems%20%7C%20SOC-0052CC?style=flat)](https://github.com/Ephraimnoel)
 
@@ -12,15 +12,15 @@
 
 ## About Me
 
-I am an Information Technology finalist at Maseno University holding a Cisco Certified Network Associate (CCNA) certification, practical IT support experience, and an active interest in systems administration and cybersecurity. 
+I am a Bachelor of Science in Information Technology graduate (Second Class Honours, Upper Division) from Maseno University, holding a Cisco Certified Network Associate (CCNA) certification, practical IT support experience, and an active focus on systems administration, network infrastructure, and cybersecurity operations.
 
-My technical approach is grounded in real-world infrastructure and structured problem-solving rather than software development. During my IT attachment at the Kenya Bureau of Standards (KEBS) in Kisumu, I performed practical IT operations including desktop OS deployments, hardware diagnostics and component replacements (such as RAM), Microsoft Outlook configuration, local area network connectivity testing, and end-user support. Additionally, as a daily Linux user on physical hardware, I am familiar with Unix CLI environments, system maintenance, and network troubleshooting tools.
+My technical approach centers on practical infrastructure and structured problem-solving. During my IT attachment at the Kenya Bureau of Standards (KEBS) in Kisumu, I carried out day-to-day IT operations including desktop OS deployments, hardware diagnostics and component replacements (such as RAM), Microsoft Outlook configuration, local area network connectivity testing, and end-user support. As a daily Linux user on physical hardware, I am familiar with Unix CLI environments, system maintenance, and network troubleshooting tools.
 
-I am intentionally developing my technical capabilities along a clear, logical progression:  
+As an IT graduate, I am intentionally developing my practical expertise along a clear, logical progression:  
 **IT Support & Operations → Networking & Routing → Systems & Linux Administration → Network Security & Security Operations (SOC)**.
 
 My current objectives are:
-1. Contributing to IT support, systems administration, network engineering, or entry-level SOC / security analyst roles.
+1. Securing entry-level roles in IT support, systems administration, network engineering, network security, or SOC / security analysis.
 2. Building thoroughly documented, reproducible lab projects that demonstrate network design, threat analysis, and systematic troubleshooting.
 3. Preparing academic foundations and technical documentation for future postgraduate study (MSc in Cybersecurity, Information Security, or IT Management).
 
