@@ -47,13 +47,19 @@ My current objectives are:
 
 ---
 
-## Portfolio & Projects
+## Featured Repositories & Portfolio Projects
 
-### [CCNA Networking Lab (Northstar Services Scenario)](https://github.com/Ephraimnoel/networking-lab-ccna)
+### 1. [CCNA Networking Lab (Northstar Services Scenario)](https://github.com/Ephraimnoel/networking-lab-ccna)
 * **Status:** `In Progress` | **Type:** Lab Simulation (Cisco Packet Tracer) & Technical Documentation
 * **Focus:** Switching, VLANs, 802.1Q Trunks, Inter-VLAN Routing, DHCP, and Deliberate Fault Troubleshooting.
-* **Description:** A documented small-business network design for a 30–50 user environment across three departments (Administration, Finance, IT). Demonstrates RFC 1918 private subnet planning, VLAN segmentation, and a hypothesis-driven troubleshooting methodology with strict before-and-after evidence capture.
+* **Description:** A documented small-business network design for a 30–50 user environment across three departments (Administration, Finance, IT). Demonstrates RFC 1918 private subnet planning, VLAN segmentation, ready-to-deploy Cisco IOS configuration scripts, and an 8-stage troubleshooting methodology.
 * **Repository:** [Ephraimnoel/networking-lab-ccna](https://github.com/Ephraimnoel/networking-lab-ccna)
+
+### 2. [IT Support & Systems Operations Runbooks](https://github.com/Ephraimnoel/it-support-runbooks)
+* **Status:** `Active Documentation` | **Type:** Standard Operating Procedures & Technical Runbooks
+* **Focus:** Hardware Diagnostics, Windows Deployment, Outlook Client Support, Linux Systems Administration, and Incident Management.
+* **Description:** Field-tested procedures and standard operating procedures drawn from hands-on IT support attachment experience and daily Linux administration. Covers RAM testing and single-stick isolation, POST failure triage, Windows clean installations, Outlook MAPI repair, and Linux CLI network/service diagnostics (`systemd`, `iproute2`, `ss`).
+* **Repository:** [Ephraimnoel/it-support-runbooks](https://github.com/Ephraimnoel/it-support-runbooks)
 
 ---
 
@@ -63,8 +69,8 @@ This portfolio prioritizes authentic engineering documentation, reproducible lab
 
 | Domain / Project | Focus Area | Status | Deliverable Type |
 |---|---|---|---|
-| **[CCNA Networking Lab](https://github.com/Ephraimnoel/networking-lab-ccna)** | Switching, VLANs, Router-on-a-Stick, DHCP, Fault Isolation | **In Progress** | Packet Tracer (`.pkt`), Runbook, Logs |
-| **IT Support & Systems Runbooks** | Desktop deployment, RAM diagnostics, Outlook setup, Linux CLI | **Planned** | Standard Operating Procedures (SOPs) |
+| **[CCNA Networking Lab](https://github.com/Ephraimnoel/networking-lab-ccna)** | Switching, VLANs, Router-on-a-Stick, DHCP, Fault Isolation | **In Progress** | Packet Tracer (`.pkt`), Cisco IOS Configs, Logs |
+| **[IT Support & Systems Runbooks](https://github.com/Ephraimnoel/it-support-runbooks)** | RAM diagnostics, POST triage, Outlook setup, Linux CLI, SOPs | **Active Documentation** | Standard Operating Procedures (SOPs), Templates |
 | **SOC & Incident Analysis Notes** | Linux auth/syslog examination, threat modeling, incident playbooks | **Planned** | Technical Analysis & Case Walkthroughs |
 | **Small Organization Security Baseline** | Hardening checklists, access controls, basic security policies | **Planned** | Policy Framework & Governance Docs |
 
